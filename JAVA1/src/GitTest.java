@@ -7,5 +7,6 @@ public class GitTest {
     public static void main(String[] args) {
 
         System.out.println("我是一个gitHub的账号");
+        System.out.println("我很好");
     }
 }
